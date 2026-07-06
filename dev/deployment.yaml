@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: ghcr.io/Rowk23/deployed-app:latest
+          image: ghcr.io/rowk23/deployed-app:latest
           ports:
             - containerPort: 8080
 
